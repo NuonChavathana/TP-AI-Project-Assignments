@@ -38,7 +38,8 @@ In-class activities and coursework submissions
 
 | Lab / Assignment | Topic | Key Techniques & Concepts | Status | Link |
 | :--- | :--- | :--- | :---: | :---: |
-| **TP 01** | Introduction to PyTorch | Tensors, Gradients, Broadcasting, Autograd | Completed | [View Notebook](./TP1_e20230118.ipynb) |
+| **TP 01** | Introduction to PyTorch | Tensors, Gradients, Broadcasting, Autograd | Completed | [View Notebook](./TP_AI_Week1/TP1_e20230118.ipynb) |
+
 
 
 
