@@ -45,19 +45,14 @@ In-class activities and coursework submissions
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```text
+```bash
 TP-AI-Project-Assignments/
-├── notebooks/                  # Interactive Jupyter / Colab notebooks
-│   └── TP_Introduction_to_PyTorch.ipynb
-├── src/                        # Modular Python source code
-│   ├── __init__.py
-│   ├── models/                 # Neural network architectures
-│   └── utils/                  # Helper functions and plotting scripts
-├── data/                       # Datasets (git-ignored for large files)
-│   └── README.md
-├── reports/                    # Exported figures, plots, and summaries
-├── .gitignore                  # Git exclusions for checkpoints and cache
-├── requirements.txt            # Python dependencies
-└── README.md                   # Project documentation
+├── 📂 TP_AI_Week1/
+│   └── 📓 TP1_e20230118.ipynb       # Introduction to PyTorch, Tensors & Autograd
+├── 📂 TP_AI_Week2/                  # Upcoming
+├── 📂 TP_AI_Week3/                  # Upcoming
+└── 📄 README.md                     # overview
+```
+
