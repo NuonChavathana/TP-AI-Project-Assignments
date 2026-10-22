@@ -55,4 +55,15 @@ TP-AI-Project-Assignments/
 ├── 📂 TP_AI_Week3/                  # Upcoming
 └── 📄 README.md                     # overview
 ```
+## 🚀 Quickstart
+
+Clone and set up the development environment locally:
+
+```bash
+git clone [https://github.com/NuonChavathana/TP-AI-Project-Assignments.git](https://github.com/NuonChavathana/TP-AI-Project-Assignments.git)
+cd TP-AI-Project-Assignments
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+jupyter lab
 
