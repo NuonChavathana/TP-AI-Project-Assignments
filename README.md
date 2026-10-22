@@ -49,11 +49,17 @@ In-class activities and coursework submissions
 
 ```bash
 TP-AI-Project-Assignments/
-├── 📂 TP_AI_Week1/
+├── 📂 Lecturer_Course/              # Course lecture slides & resources
+│   ├── 📄 Lesson1_Introduction-to-AI.pdf
+│   └── 📄 AI_Lecture_2_Neural_Foundations.pdf
+├── 📂 TP_AI_Week1/                  # Practical lab 1
 │   └── 📓 TP1_e20230118.ipynb       # Introduction to PyTorch, Tensors & Autograd
-├── 📂 TP_AI_Week2/                  # Upcoming
-├── 📂 TP_AI_Week3/                  # Upcoming
-└── 📄 README.md                     # overview
+├── 📂 TP_AI_Week2/                  # Practical lab 2 (Upcoming)
+├── 📂 TP_AI_Week3/                  # Practical lab 3 (Upcoming)
+├── 📄 requirements.txt              # Core project dependencies
+└── 📄 README.md                     # Course documentation & progress overview
+```
+
 ```
 ## 🚀 Quickstart
 
