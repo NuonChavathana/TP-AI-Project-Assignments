@@ -48,16 +48,22 @@ In-class activities and coursework submissions
 ## 📁 Project Structure
 
 ```bash
+```text
 TP-AI-Project-Assignments/
 ├── 📂 Lecturer_Course/              # Course lecture slides & resources
 │   ├── 📄 Lesson1_Introduction-to-AI.pdf
 │   └── 📄 AI_Lecture_2_Neural_Foundations.pdf
-├── 📂 TP_AI_Week1/                  # Practical lab 1
+├── 📂 TP_AI_Week1/                  # Practical Lab 1
 │   └── 📓 TP1_e20230118.ipynb       # Introduction to PyTorch, Tensors & Autograd
-├── 📂 TP_AI_Week2/                  # Practical lab 2 (Upcoming)
-├── 📂 TP_AI_Week3/                  # Practical lab 3 (Upcoming)
+├── 📂 TP_AI_Week2/                  # Practical Lab 2: Deep Neural Networks
+│   ├── 📓 TP2_DeepNN_Step_by_Step_Class_activity_G3.ipynb
+│   │                                  # In-class Deep Neural Network exercises
+│   └── 📓 TP2_NUON_CHANVATHANA_I4_AMSB.ipynb
+│                                      # Odd or Even Classification (Tasks 1–6)
+├── 📂 TP_AI_Week3/                  # Practical Lab 3
 ├── 📄 requirements.txt              # Core project dependencies
 └── 📄 README.md                     # Course documentation & progress overview
+```
 ```
 
 ```
